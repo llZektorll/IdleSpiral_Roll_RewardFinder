@@ -1,4 +1,4 @@
-# Fast ATK % finder
+# Fast Rare Reward Finder
 
 Fast ATK % finder is a <a href="https://www.autohotkey.com/">AutoHotKey</a> Script to help find in the game <a href="https://store.steampowered.com/app/1827980/Idle_Spiral/">Idle Spiral</a> rewards that are Rare.
 
