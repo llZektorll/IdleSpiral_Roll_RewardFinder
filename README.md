@@ -4,7 +4,7 @@ Fast ATK % finder is a <a href="https://www.autohotkey.com/">AutoHotKey</a> Scri
 
 Since the script is set up to search by color, it will force you to stop clicking every time something with the color of Rare Reward is found. 
 
-Make sure you ran this with the game in full screen just in case, i still have not tested if it will work in windowed mode.
+Make sure you run this with the game in full screen just in case, i still have not tested if it will work in windowed mode.
 
 Since it is searching by color, it also means that in any battle you can filter by the rare rewards.
 
