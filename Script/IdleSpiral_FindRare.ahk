@@ -1,4 +1,4 @@
-~F2:: ; Change this to any hotkey you prefer
+F2:: ; Change this to any hotkey you prefer
 Toggle := !Toggle
 Loop {
 PixelSearch, X, Y, 0, 0, A_ScreenWidth, A_ScreenHeight, 0x0078EE, 60, Fast
